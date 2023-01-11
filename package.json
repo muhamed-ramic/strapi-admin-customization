@@ -12,7 +12,7 @@
   "devDependencies": {},
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "knex": "<0.20.0",
+    "knex": "<2.5.0",
     "react-render-html": "^0.6.0",
     "sqlite3": "^4.2.0",
     "strapi": "3.0.0",
