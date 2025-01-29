@@ -1,5 +1,9 @@
 # Strapi application
 
+## Tech stack: 
+- ReactJS
+- Strapi-admin-panel
+
 ## This is a customization of strapi popular api cms,
 * Added custom page,
 * Added custom content type
