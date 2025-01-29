@@ -4,7 +4,9 @@
 - ReactJS
 - Strapi-admin-panel
 
-## This is a customization of strapi popular api cms,
+## Work highlight:
+
+This is a customization of strapi popular api cms,
 * Added custom page,
 * Added custom content type
 * Added custom form to search results from web by css selectors using cheerio
